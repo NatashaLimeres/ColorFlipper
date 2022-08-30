@@ -37,6 +37,16 @@ a{
     color: #c4b282;
 }
 
+#simple:hover {
+    letter-spacing: 1px;
+    color: #968863;
+  }
+
+#hex:hover {
+    letter-spacing: 1px;
+    color: #968863;
+  } 
+
 
 .container {
     padding-top: 18rem;
