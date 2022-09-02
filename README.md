@@ -1,4 +1,4 @@
-# ColorFlipper
+# Color Flipper
 O Color Flipper troca o background aleatoriamente ao clicar no botão "click here". <br>
 A categoria Simple tem uma mistura de valores hexadecimais, rgba e cores básicas. <br>
 A categoria Hex é gerada através dos números disponíveis no sistema hexadecimal, uma string aleatória de cor, ou seja, cada vez que o botão for clicado, uma cor completamente aleatória será gerada.
