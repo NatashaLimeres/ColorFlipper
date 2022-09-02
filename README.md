@@ -9,11 +9,7 @@ On the Hex category, a random color string is generated through the numbers avai
 
 Key concepts covered (conceitos abordados):
 
-- arrays
-- document.getElementById()
-- document.querySelector()
-- addEventListener()
-- document.body.style.backgroundColor
-- Math.floor()
-- Math.random()
-- array.length
+- Arrays
+- DOM Manipulation (Manipulação de DOM)
+- Event Handlers
+- Math Global Object (Objeto global Math)
