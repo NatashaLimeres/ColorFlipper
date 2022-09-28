@@ -19,3 +19,4 @@ Key concepts covered (Principais conceitos abordados):
 🔗 Links úteis:<br>
 Youtube vídeo: https://www.youtube.com/watch?v=3PHXvlpOkf4&t=8324s
 
+Desenvolvido com 💘 por Natasha Limeres
