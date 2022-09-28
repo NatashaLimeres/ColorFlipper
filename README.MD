@@ -9,7 +9,7 @@ The color flipper is a random background color changer.
 On the Simple category, has a mixture of hexadecimal, rgba, and basic color values.
 On the Hex category, a random color string is generated through the numbers available in the hexadecimal system, making every click on the button, generate a new random color.
 
-Key concepts covered (conceitos abordados):
+Key concepts covered (Principais conceitos abordados):
 
 - Arrays
 - DOM Manipulation (Manipulação de DOM)
