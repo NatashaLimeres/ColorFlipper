@@ -15,3 +15,7 @@ Key concepts covered (Principais conceitos abordados):
 - DOM Manipulation (Manipulação de DOM)
 - Event Handlers
 - Math Global Object (Objeto global Math)
+
+🔗 Links úteis:<br>
+Youtube vídeo: https://www.youtube.com/watch?v=3PHXvlpOkf4&t=8324s
+
